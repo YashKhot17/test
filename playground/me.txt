@@ -1,0 +1,5 @@
+{{#user}}
+Name: Yash Khot
+Skills: HTML, CSS, JS, React JS, MongoDB
+Email: yashkhot1708@gmail.com
+{{/user}}
